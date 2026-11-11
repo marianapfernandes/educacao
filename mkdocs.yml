@@ -1,0 +1,18 @@
+site_name: Portal da área de educação - LIneA
+site_url: https://linea-it.github.io/educacao/
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: indigo
+  features:
+    - navigation.indexes
+    - search.suggest
+
+nav:
+  - Início: index.md
+  - Cursos: cursos.md
+  - Bootcamp: bootcamp.md
+  - Tutoriais: tutoriais.md
+  - Suporte: suporte.md
